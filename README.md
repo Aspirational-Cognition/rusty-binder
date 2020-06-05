@@ -6,8 +6,8 @@ Rust based web GUI application for ISC Bind 9.16 and above.
 Uses catalog zones and supports "split horizon" dns the way I need to use it.
 
 Data model planning:
-![Alt text](./docs/Rusty Binder Data.svg)
-<img src="./Rusty Binder Data.svg">
+
+<img src="./docs/Rusty Binder Data.svg">
 
 To use:
 
